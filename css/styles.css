@@ -1,0 +1,184 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+    background-color: #FFF;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+.logo {
+    color: #4D5AE5;
+    font-family: Raleway, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.logo-part {
+    color: #2E2F42;
+}
+
+.nav-link {
+    color: #2E2F42;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+    color: #404BBF;
+}
+
+.address {
+    font-style: normal;
+}
+
+.address-link {
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.address-link:hover,
+.address-link:focus {
+    color: #404BBF;
+}
+
+.effective-solutions-title {
+font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 56px;
+
+     
+    line-height: 1.07143;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: var(--white);
+}
+
+.order-srvc-btn {
+    font-family: var(--font-family);
+        font-weight: 500;
+        font-size: 16px;
+    
+         
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: var(--white);
+        cursor: pointer;
+}
+
+.head-title {
+    font-family: var(--font-family);
+        font-weight: 500;
+        font-size: 20px;
+    
+        
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: var(--navy-blue);
+}
+
+.head-item {
+    font-family: var(--font-family);
+        font-weight: 400;
+        font-size: 16px;
+    
+         
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: var(--slate);
+}
+
+.team-title {
+    font-family: var(--font-family);
+        font-weight: 700;
+        font-size: 36px;
+
+        
+        line-height: 1.11111;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: var(--navy-blue);
+}
+
+.team-name {
+    font-family: var(--font-family);
+        font-weight: 500;
+        font-size: 20px;
+    
+        
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: var(--navy-blue);
+}
+
+.team-item {
+    font-family: var(--font-family);
+        font-weight: 400;
+        font-size: 16px;
+    
+        
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: var(--slate);
+}
+
+.portfolio {
+    font-family: var(--font-family);
+        font-weight: 700;
+        font-size: 36px;
+    
+        
+        line-height: 1.11111;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: var(--navy-blue);
+}
+
+.portfolio-title {
+    font-family: var(--font-family);
+        font-weight: 500;
+        font-size: 20px;
+    
+         
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: var(--navy-blue);
+}
+
+.portfolio-item {
+    font-family: var(--font-family);
+        font-weight: 400;
+        font-size: 16px;
+    
+         
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: var(--slate);
+}
+
+.footer-item {
+    font-family: var(--font-family);
+        font-weight: 400;
+        font-size: 16px;
+    
+        
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: var(--cloud);
+}
