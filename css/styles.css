@@ -137,9 +137,7 @@ font-family: var(--font-family);
         text-align: center;
         text-transform: capitalize;
         color: #2e2f42;
-        background-color: #FFFFFF;
-        text-transform: capitalize;
-        
+        background-color: #FFFFFF;      
 }
 
 .team-item {
@@ -159,7 +157,7 @@ font-family: var(--font-family);
         font-weight: 700;
         font-size: 36px;
         text-transform: capitalize;
-        line-height: 1.2;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
@@ -167,8 +165,8 @@ font-family: var(--font-family);
 
 .portfolio-title {
     font-family: var(--font-family);
-        font-weight: 700;
-        font-size: 36px;
+        font-weight: 500;
+        font-size: 20px;
         text-transform: capitalize;
         line-height: 1.2;
         letter-spacing: 0.02em;
@@ -179,12 +177,12 @@ font-family: var(--font-family);
 .portfolio-item {
     font-family: var(--font-family);
         font-weight: 700;
-        font-size: 36px;
+        font-size: 16px;
         text-transform: capitalize;
-        line-height: 1.2;
+        line-height: 1.5;
         letter-spacing: 0.02em;
         text-align: center;
-        color: #2e2f42;
+        color: #434455;
 }
 
 .footer-item {
