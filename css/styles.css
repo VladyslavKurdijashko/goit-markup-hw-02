@@ -55,6 +55,9 @@ ol {
 .address-link:focus {
     color: #404BBF;
 }
+ .sol-section {
+    background-color: #2e2f42;
+ } 
 
 .effective-solutions-title {
 font-family: var(--font-family);
@@ -65,9 +68,8 @@ font-family: var(--font-family);
     line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
-    color: var(--white);
     background-color: #2e2f42;
-    color: #ffffff
+    color: #ffffff;
 }
 
 .order-srvc-btn {
@@ -78,15 +80,14 @@ font-family: var(--font-family);
          
         line-height: 1.5;
         letter-spacing: 0.04em;
-        color: var(--white);
         cursor: pointer;
-        background-color: #4D5AE5
-        color: #ffffff
+        background-color: #4D5AE5;
+        color: #ffffff;
 }
 
 .order-srvc-btn:hover ,
 .order-srvc-btn:focus {
-    background-color: #404BBF
+    background-color: #404BBF;
 }
 
 .head-title {
@@ -112,7 +113,7 @@ font-family: var(--font-family);
 }
 
 .team-section {
-    background-color: #F4F4FD
+    background-color: #F4F4FD;
 }
 
 .team-title {
@@ -138,7 +139,7 @@ font-family: var(--font-family);
         text-align: center;
         color: #2e2f42;
         background-color: #FFFFFF
-        text-transform: capitalize
+        text-transform: capitalize;
 }
 
 .team-item {
@@ -157,7 +158,7 @@ font-family: var(--font-family);
     font-family: var(--font-family);
         font-weight: 700;
         font-size: 36px;
-        text-transform: capitalize
+        text-transform: capitalize;
     
         
         line-height: 1.11;
@@ -204,5 +205,5 @@ font-family: var(--font-family);
 }
 
 .footer-part {
-    color: #f4f4fd
+    color: #f4f4fd;
 }
