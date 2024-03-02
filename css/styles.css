@@ -116,6 +116,10 @@ font-family: var(--font-family);
     background-color: #F4F4FD;
 }
 
+.team-list {
+    background-color: #FFFFFF;
+}
+
 .team-title {
     font-family: var(--font-family);
         font-weight: 700;
