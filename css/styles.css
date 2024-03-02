@@ -159,8 +159,6 @@ font-family: var(--font-family);
         font-weight: 700;
         font-size: 36px;
         text-transform: capitalize;
-    
-        
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
@@ -171,9 +169,8 @@ font-family: var(--font-family);
     font-family: var(--font-family);
         font-weight: 500;
         font-size: 20px;
-    
-         
-        line-height: 1.2;
+        text-transform: capitalize;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         color: #2e2f42;
 }
@@ -181,9 +178,7 @@ font-family: var(--font-family);
 .portfolio-item {
     font-family: var(--font-family);
         font-weight: 400;
-        font-size: 16px;
-    
-         
+        font-size: 16px; 
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: var(--slate);
@@ -204,6 +199,15 @@ font-family: var(--font-family);
     background-color: #2e2f42;
 }
 
+.logo-footer {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color:  #4d5ae5;
+}
 .footer-part {
     color: #f4f4fd;
 }
