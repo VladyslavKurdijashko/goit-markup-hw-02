@@ -123,8 +123,9 @@ font-family: var(--font-family);
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
-        color: #2e2f42;
         text-transform: capitalize;
+        color: #2e2f42;
+        
 }
 
 .team-name {
@@ -134,6 +135,7 @@ font-family: var(--font-family);
         line-height: 1.2;
         letter-spacing: 0.02em;
         text-align: center;
+        text-transform: capitalize;
         color: #2e2f42;
         background-color: #FFFFFF;
         text-transform: capitalize;
@@ -157,7 +159,7 @@ font-family: var(--font-family);
         font-weight: 700;
         font-size: 36px;
         text-transform: capitalize;
-        line-height: 1.11;
+        line-height: 1.2;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
@@ -168,7 +170,7 @@ font-family: var(--font-family);
         font-weight: 700;
         font-size: 36px;
         text-transform: capitalize;
-        line-height: 1.11;
+        line-height: 1.2;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
@@ -179,7 +181,7 @@ font-family: var(--font-family);
         font-weight: 700;
         font-size: 36px;
         text-transform: capitalize;
-        line-height: 1.11;
+        line-height: 1.2;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
